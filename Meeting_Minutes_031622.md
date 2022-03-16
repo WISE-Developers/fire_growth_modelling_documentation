@@ -24,10 +24,15 @@ _Franco_ - Currently no good way to deliver direction on where the website is to
 
 # 5. Alberta Contract Update
 
+_Liz_
 2 contracts
 
 1) Hard set deliverables - currently underway
 2) Grant for CIFFC going ahead at this time
+
+## 5.1 General contract info
+_Rob_
+Access and keys for different repos. GitHub doesn't have intel compiler but does have clang, so that's good. Cleaning up the code along the way, specifically the V6 spefic stuff.
 
 # 6. Governance update
 
