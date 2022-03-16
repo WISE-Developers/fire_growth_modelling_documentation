@@ -43,3 +43,9 @@ GitHub Teams - to attach the permissions required such as automatic builds, the 
 _Neal_ - into the repos and project areas now. Wanted to come back to the previous conversations about issues and bugs. Wanted to report an issue on the PSaaS installer, there's also a change over from RedMine to GitHub. Are we moved over to GitHub now?
 
 _Franco_ - Yes we've moved over, RedMine will stay up, but we will no longer be using it for reporting and tracking.
+
+** After Brett left **
+1) Rob updated the team on the NWT COntract
+2) Rob updated the team on the AB COntract
+
+
