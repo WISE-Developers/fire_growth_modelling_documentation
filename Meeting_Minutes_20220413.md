@@ -22,7 +22,7 @@ _Franco_ - I have some ideas on this and I have a potentially better way.
 
 ### 2. Presentation in Draft Form
 
-[Prometheus Slides Video]({./Video/PSaaS_Meeting_Prometheus.mp4} "Prometheus Slides Video")
+[Prometheus Slides Video]({../Video/PSaaS_Meeting_Prometheus.mp4} "Prometheus Slides Video")
 
 _Neal_ - Intent of this is to deliver to canada wildfire / ciffc. Speak about End of life prometheus, psaas and what they can expect moving forward. There is no urgency for this as there is a waiting list. NZ wants a talk too, we will be just covering how we are using PSaaS. 
 
