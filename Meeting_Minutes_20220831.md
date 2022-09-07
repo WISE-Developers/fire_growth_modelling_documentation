@@ -30,11 +30,11 @@ _Liz_ - For reference back int eh spring AB entered into a research project. Com
 
 _Brett_ - If there are a lot of changes being made we really need staff to log the changes they are making so we can better teach the system how to make good choices.
 
-_Neal_ - As these first implementations of WISE were there is a resistance because "we can't let it run automatically" because of all the things we need to fix. "Machine learning" problems (bretts comment, not an ML problem, data accuracy/cleanliness problem). US has other platforms and we can go into deeper detail with. 
+_Neal_ - As these first implementations of WISE were there is a resistance because "we can't let it run automatically" because of all the things we need to fix. "Machine learning" problems (bretts comment, not an ML problem, data accuracy/cleanliness problem). US has other platforms and we can go into deeper detail with.
 
 ### 3. Conference
 
-_Neal_ - Still don't have travel approval. There is an option to present remotely. Not sure I'm a fan of that, but we'll determine one way or another yet. TBD how we are going to deal with this. 
+_Neal_ - Still don't have travel approval. There is an option to present remotely. Not sure I'm a fan of that, but we'll determine one way or another yet. TBD how we are going to deal with this.
 
 ### 4. Name
 
