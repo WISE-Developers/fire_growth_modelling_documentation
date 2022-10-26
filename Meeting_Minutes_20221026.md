@@ -25,7 +25,7 @@ _Liz_ - Ministry Name Change: Now known as: Alberta Forestry, Parks and Tourism
 
 <hr>
 
-_Liz_ - Webnames - The GOA expires march 2023 - No intention to renew.
+_Liz_ - Webnames - The GOA CC being used expires march 2023 - No intention to renew.
 
 [Request] - please plan to migrate domains elsewhere.
 
