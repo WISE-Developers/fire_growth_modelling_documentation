@@ -20,6 +20,7 @@ Robert
 _Liz_ - Ministry Name Change: Now known as: Alberta Forestry, Parks and Tourism
 
 [Request] - Franco please update FGM.ca with new ministry name.
+
 [Action] - Franco To update GOA Ministry on FGM.ca and Docs that refer to GOA Custonianship
 
 <hr>
@@ -27,6 +28,7 @@ _Liz_ - Ministry Name Change: Now known as: Alberta Forestry, Parks and Tourism
 _Liz_ - Webnames - The GOA expires march 2023 - No intention to renew.
 
 [Request] - please plan to migrate domains elsewhere.
+
 [Action] - Franco to work with Liz to xfer domains (Franco wants ASAP)
 
 <hr>
@@ -41,6 +43,7 @@ EG:
 - GOA now echos this concern of our handling of Prometheus EOL.
 
 [Request] - Liz says GOA wants to know our detailed plan for Prometheus EOL.
+
 [Action] - Franco told liz, to put her request in formal writing (Email) and send to exec. It will get an appropriate response - She said she would.
 
 ### 1. Firecast & Validation Update
@@ -53,9 +56,11 @@ _Rob_
 
 
 [Request] - Franco asked rob to provide deatils of Spot Checks (Methodolofy Evidence etc)
+
 [Action] - Rob to provide
 
 [Request] - Franco asked rob to update related github issues with development status
+
 [Action] - Rob wilco
 
 ### 2. Final Q & A
