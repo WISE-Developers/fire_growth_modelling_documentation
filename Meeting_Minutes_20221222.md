@@ -38,14 +38,16 @@
   - wise-java-api = WISE_Java_API
   - REDappWrapper = WISE_REDapp_Lib_Wrapper
   - FBP-Tester = FBP_Tester_Application
-  - 
+- New Services in use
+  - Snyk - Vulnerability Management 
+ 
 ### 2. Prometheus Update
 
 - Dev release for testing
   - Not Public - Team Only (Members can control distribution)
   - Testing Only
   - To assist in compatibility between WISE 1.0 and Prometheus EOL
-  -  
+- Final work for P-EOL Slarted for q1/2 2023  
 
 ### 3. Community Update
 
