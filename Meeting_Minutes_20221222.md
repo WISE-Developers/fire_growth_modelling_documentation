@@ -17,7 +17,7 @@
 
 ## Agenda Items
 
-### 1. WISE 1.0 Release
+### 1. WISE 1.0 Release - Franco Nogarin
 
 - Release will be a beta
 - Prometheus Compatibility
@@ -41,7 +41,7 @@
 - New Services in use
   - Snyk - Vulnerability Management 
  
-### 2. Prometheus Update
+### 2. Prometheus Update - Franco Nogarin
 
 - Dev release for testing
   - Not Public - Team Only (Members can control distribution)
@@ -49,7 +49,7 @@
   - To assist in compatibility between WISE 1.0 and Prometheus EOL
 - Final work for P-EOL Slarted for q1/2 2023  
 
-### 3. Community Update
+### 3. Community Update - Franco Nogarin
 
 - Lots of new members
   - wise cross section of agency, industry and commercial
@@ -57,7 +57,7 @@
     - General, wise-community-support, 
 
 
-### 4. Developer Update
+### 4. Developer Update - Rob Bryce
 
-### 5. WISE Validation Update
+### 5. WISE Validation Update - Brett Moore
 
