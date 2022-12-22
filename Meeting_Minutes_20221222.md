@@ -14,6 +14,8 @@
 - Franco (Minutes)
 - Rob Bryce
 - Neal
+- Rob Kruus - SK
+- Liz Chapman - AB
 
 ## Agenda Items
 
