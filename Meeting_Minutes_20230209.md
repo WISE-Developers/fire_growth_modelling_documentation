@@ -1,5 +1,12 @@
 # Agenda
 
+[1) teams work](#1-teams-work)
+[2) Wise Beta](#2-wise-beta)
+[3) Open Collective](#3-open-collective)
+[4) Testing Protocol](#4-testing-protocol)
+[5) my status red](#5-my-status-red)
+[6) Ciffc ToR](#6-ciffc-tor)
+[7) GitHub team discussions](#7-github-team-discussions)
 ## Attendees
 
 Brett
@@ -7,6 +14,7 @@ Neal
 Franco
 
 ### 1) teams work
+
 
 Teams are now established. Davinci has been updated to allow for specific notification for support items to teams.
 
