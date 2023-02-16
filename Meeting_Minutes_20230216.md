@@ -2,19 +2,19 @@
 
 ## Attendees
 
-Franco @spydmobile
+Franco [@spydmobile](https://github.com/spydmobile)
 
-Brett @BadgerOnABike
+Brett [@BadgerOnABike](https://github.com/BadgerOnABike)
 
-Neal @nealmcloughlin
+Neal [@nealmcloughlin](https://github.com/nealmcloughlin)
 
-Rob K @krowbar
+Rob K [@krowbar](https://github.com/krowbar)
 
-Rob J @RobJago
+Rob J [@RobJago](https://github.com/RobJago)
 
-Rob B @RobBryce
+Rob B [@RobBryce](https://github.com/RobBryce)
 
-Liz @lizzydchappy
+Liz [@lizzydchappy](https://github.com/lizzydchappy)
 
 ### 1. New Build Beta.4
 
