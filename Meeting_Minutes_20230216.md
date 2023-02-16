@@ -3,11 +3,17 @@
 ## Attendees
 
 Franco @spydmobile
+
 Brett @BadgerOnABike
+
 Neal @nealmcloughlin
+
 Rob K @krowbar
+
 Rob J @RobJago
+
 Rob B @RobBryce
+
 Liz @lizzydchappy
 
 ### 1. New Build Beta.4
