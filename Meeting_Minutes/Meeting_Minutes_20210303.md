@@ -1,11 +1,12 @@
 # March 3 Agenda- 
-- [1. NZ Meeting](#1-nz-meeting)
-- [2. Builds up - Prometheus](#2-builds-up---prometheus)
-- [3. SOP Updates / Workflow Plan](#3-sop-updates--workflow-plan)
-  - [3.1. Priorities and workplan](#31-priorities-and-workplan)
-- [4. Beta Release](#4-beta-release)
-- [5. Burn-P3 Update - Version number interface PCOM](#5-burn-p3-update---version-number-interface-pcom)
-- [6. Alberta Budgets and Year Ahead](#6-alberta-budgets-and-year-ahead)
+- [March 3 Agenda-](#march-3-agenda-)
+  - [1. NZ Meeting](#1-nz-meeting)
+  - [2. Builds up - Prometheus](#2-builds-up---prometheus)
+  - [3. SOP Updates / Workflow Plan](#3-sop-updates--workflow-plan)
+    - [3.1. Priorities and workplan](#31-priorities-and-workplan)
+  - [4. Beta Release](#4-beta-release)
+  - [5. Burn-P3 Update - Version number interface PCOM](#5-burn-p3-update---version-number-interface-pcom)
+  - [6. Alberta Budgets and Year Ahead](#6-alberta-budgets-and-year-ahead)
 
 ## 1. NZ Meeting
 
@@ -27,7 +28,7 @@ Burn-P3 can't be built until the beta is up for Prometheus. Perhaps we set up th
 
 ## 3. SOP Updates / Workflow Plan
 
-- Workflow plan can be found here: https://github.com/BadgerOnABike/psaas_demo/blob/Developer/workflow_proposal.md
+- Workflow plan can be found [here:](./workflow_proposal.md)
 
 Read the proposal, specifically Topics 2 and 7. Leave your notes or bring up any issues in the psaas-developers channel on discord, or you can drop it with Franco or I directly, we will likely put it in the psaas-developers channel but anonymize it for you. You may also just create an issue for us.
 

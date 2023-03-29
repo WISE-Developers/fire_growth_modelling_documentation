@@ -1,16 +1,17 @@
 # Agenda
 
-- [1. Strategy Document (Workplan)](#1-strategy-document-workplan)
-  - [1.1 Priority setting for developers](#11-priority-setting-for-developers)
-- [2. Release plan](#2-release-plan)
-- [3. Lux info from Franco and paper when it comes](#3-lux-info-from-franco-and-paper-when-it-comes)
-- [4. New Zealand PSaaS feedback](#4-new-zealand-psaas-feedback)
-- [5. Toolbox meeting between PSaaS and CIFFC](#5-toolbox-meeting-between-psaas-and-ciffc)
-- [6. Liz RedApp Testing](#6-liz-redapp-testing)
+- [Agenda](#agenda)
+  - [1. Strategy Document (Workplan)](#1-strategy-document-workplan)
+    - [1.1 Priority setting for developers](#11-priority-setting-for-developers)
+  - [2. Release plan](#2-release-plan)
+  - [3. Lux info from Franco and paper when it comes](#3-lux-info-from-franco-and-paper-when-it-comes)
+  - [4. New Zealand PSaaS feedback](#4-new-zealand-psaas-feedback)
+  - [5. Toolbox meeting between PSaaS and CIFFC](#5-toolbox-meeting-between-psaas-and-ciffc)
+  - [6. Liz RedApp Testing](#6-liz-redapp-testing)
 
 ## 1. Strategy Document (Workplan)
 
-Document is here: https://github.com/BadgerOnABike/psaas_demo/blob/Developer/workflow_proposal.md
+Workflow plan can be found [here:](./workflow_proposal.md)
 
 **Brad** comments and dialogue
 
