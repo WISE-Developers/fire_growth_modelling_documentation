@@ -1,5 +1,5 @@
 # W.I.S.E. Project Team Meeting Minutes
-![WISE social image](https://github.com/PSaaS-Developers/modelling_framework/blob/main/assets/images/wiserepo.png)
+![WISE social image](https://github.com/WISE-Developers/public_wise_assets/blob/main/splash/wiserepo.png)
 
 ## Meeting and Document Information
 
