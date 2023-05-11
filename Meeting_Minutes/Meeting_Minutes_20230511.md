@@ -10,7 +10,8 @@
 
 ### 0. Missing meeting notes from last meeting?
 
-[FRANCO Action Item] will check with Brett.
+[FRANCO Action Item - RESOLVED - Repo was out of date LOL] will check with Brett.
+
 
 ### 1. Review Franco's Office Hours
 
