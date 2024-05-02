@@ -1,11 +1,13 @@
 # Agenda
 
 ## Remaining CIFFC Funds
-BC did not provide approval for Neal to be part of a not-for-profit foundation.
+- BC did not provide approval for Neal to be part of a not-for-profit foundation.
 
-Canada Wildfire may be an option for CIFFC to transfer remaining WISE funds to.
-Canada Wildfire is a now a not-for-profit.
-GNWT is a member of Canada Wildfire.
+- Canada Wildfire may be an option for CIFFC to transfer remaining WISE funds to.
+
+- Canada Wildfire is a now a not-for-profit.
+
+- GNWT is a member of Canada Wildfire. Franco will investigate is this option is acceptable for GNWT.
 
 # Wildfire Resilient Futures Initiative
 
