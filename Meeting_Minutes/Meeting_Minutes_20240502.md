@@ -1,11 +1,12 @@
-Remaining CIFFC Funds
+# Agenda
+
+## Remaining CIFFC Funds
 -BC did not provide approval for Neal to be part of a not-for-profit foundation.
 -Canada Wildfire may be an option for CIFFC to transfer remaining WISE funds to.
 -Canada Wildfire is a now a not-for-profit.
 -GNWT is a member of Canada Wildfire.
 
-
-Wildfire Resilient Futures Initiative
+# Wildfire Resilient Futures Initiative
 
 -Open source WISE
 -EOL Prometheus
@@ -20,4 +21,4 @@ Wildfire Resilient Futures Initiative
 integration of CWFMF weather forecast service. Expand weather service to include all NWM sources and modify models to use raw NWM outputs in raster format.
 -Self-tuning weather models based on observation network (auto-tune).
 -Next generation CFFDRS implementation
--Machine learning for fire growth modelling (self-tuning models).
+-Machine learning for fire growth modelling (self-tuning fire spread models).
